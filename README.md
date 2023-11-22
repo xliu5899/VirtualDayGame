@@ -80,4 +80,3 @@ PROGRAM HIGHLIGHTS
 
 REFERENCES:
 Rendell, P. G., & Craik, F. I. (2000). Virtual week and actual week: Age-related differences in prospective memory. Applied Cognitive Psychology,14(7), 43-62. doi:10.1002/acp.770
-![image](https://github.com/xliu5899/VirtualDayGame/assets/66278349/54ab8ba7-a6ec-4396-b849-e1855c1c4d99)
