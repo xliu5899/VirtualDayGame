@@ -79,4 +79,4 @@ PROGRAM HIGHLIGHTS
 •	Start label, game piece, and die are clickable labels
 
 REFERENCES:
-Rendell, P. G., & Craik, F. I. (2000). Virtual week and actual week: Age-related differences in prospective memory. Applied Cognitive Psychology,14(7), 43-62. doi:10.1002/acp.770
+Rendell, P. G., & Craik, F. I. (2000). Virtual week and actual week: Age-related differences in prospective memory. Applied Cognitive Psychology,14(7), 43-62.
